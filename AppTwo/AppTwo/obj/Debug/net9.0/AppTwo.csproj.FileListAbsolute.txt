@@ -1,0 +1,14 @@
+C:\Users\kas\Desktop\C#\AppTwo\AppTwo\bin\Debug\net9.0\AppTwo.exe
+C:\Users\kas\Desktop\C#\AppTwo\AppTwo\bin\Debug\net9.0\AppTwo.deps.json
+C:\Users\kas\Desktop\C#\AppTwo\AppTwo\bin\Debug\net9.0\AppTwo.runtimeconfig.json
+C:\Users\kas\Desktop\C#\AppTwo\AppTwo\bin\Debug\net9.0\AppTwo.dll
+C:\Users\kas\Desktop\C#\AppTwo\AppTwo\bin\Debug\net9.0\AppTwo.pdb
+C:\Users\kas\Desktop\C#\AppTwo\AppTwo\obj\Debug\net9.0\AppTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kas\Desktop\C#\AppTwo\AppTwo\obj\Debug\net9.0\AppTwo.AssemblyInfoInputs.cache
+C:\Users\kas\Desktop\C#\AppTwo\AppTwo\obj\Debug\net9.0\AppTwo.AssemblyInfo.cs
+C:\Users\kas\Desktop\C#\AppTwo\AppTwo\obj\Debug\net9.0\AppTwo.csproj.CoreCompileInputs.cache
+C:\Users\kas\Desktop\C#\AppTwo\AppTwo\obj\Debug\net9.0\AppTwo.dll
+C:\Users\kas\Desktop\C#\AppTwo\AppTwo\obj\Debug\net9.0\refint\AppTwo.dll
+C:\Users\kas\Desktop\C#\AppTwo\AppTwo\obj\Debug\net9.0\AppTwo.pdb
+C:\Users\kas\Desktop\C#\AppTwo\AppTwo\obj\Debug\net9.0\AppTwo.genruntimeconfig.cache
+C:\Users\kas\Desktop\C#\AppTwo\AppTwo\obj\Debug\net9.0\ref\AppTwo.dll

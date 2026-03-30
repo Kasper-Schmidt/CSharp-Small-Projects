@@ -1,0 +1,14 @@
+C:\Users\kas\Desktop\C#\Math\Math\bin\Debug\net9.0\Math.exe
+C:\Users\kas\Desktop\C#\Math\Math\bin\Debug\net9.0\Math.deps.json
+C:\Users\kas\Desktop\C#\Math\Math\bin\Debug\net9.0\Math.runtimeconfig.json
+C:\Users\kas\Desktop\C#\Math\Math\bin\Debug\net9.0\Math.dll
+C:\Users\kas\Desktop\C#\Math\Math\bin\Debug\net9.0\Math.pdb
+C:\Users\kas\Desktop\C#\Math\Math\obj\Debug\net9.0\Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kas\Desktop\C#\Math\Math\obj\Debug\net9.0\Math.AssemblyInfoInputs.cache
+C:\Users\kas\Desktop\C#\Math\Math\obj\Debug\net9.0\Math.AssemblyInfo.cs
+C:\Users\kas\Desktop\C#\Math\Math\obj\Debug\net9.0\Math.csproj.CoreCompileInputs.cache
+C:\Users\kas\Desktop\C#\Math\Math\obj\Debug\net9.0\Math.dll
+C:\Users\kas\Desktop\C#\Math\Math\obj\Debug\net9.0\refint\Math.dll
+C:\Users\kas\Desktop\C#\Math\Math\obj\Debug\net9.0\Math.pdb
+C:\Users\kas\Desktop\C#\Math\Math\obj\Debug\net9.0\Math.genruntimeconfig.cache
+C:\Users\kas\Desktop\C#\Math\Math\obj\Debug\net9.0\ref\Math.dll
