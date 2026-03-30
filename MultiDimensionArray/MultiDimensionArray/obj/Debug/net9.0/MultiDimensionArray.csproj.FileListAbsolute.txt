@@ -1,0 +1,14 @@
+C:\Users\kas\Desktop\C#\MultiDimensionArray\MultiDimensionArray\bin\Debug\net9.0\MultiDimensionArray.exe
+C:\Users\kas\Desktop\C#\MultiDimensionArray\MultiDimensionArray\bin\Debug\net9.0\MultiDimensionArray.deps.json
+C:\Users\kas\Desktop\C#\MultiDimensionArray\MultiDimensionArray\bin\Debug\net9.0\MultiDimensionArray.runtimeconfig.json
+C:\Users\kas\Desktop\C#\MultiDimensionArray\MultiDimensionArray\bin\Debug\net9.0\MultiDimensionArray.dll
+C:\Users\kas\Desktop\C#\MultiDimensionArray\MultiDimensionArray\bin\Debug\net9.0\MultiDimensionArray.pdb
+C:\Users\kas\Desktop\C#\MultiDimensionArray\MultiDimensionArray\obj\Debug\net9.0\MultiDimensionArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kas\Desktop\C#\MultiDimensionArray\MultiDimensionArray\obj\Debug\net9.0\MultiDimensionArray.AssemblyInfoInputs.cache
+C:\Users\kas\Desktop\C#\MultiDimensionArray\MultiDimensionArray\obj\Debug\net9.0\MultiDimensionArray.AssemblyInfo.cs
+C:\Users\kas\Desktop\C#\MultiDimensionArray\MultiDimensionArray\obj\Debug\net9.0\MultiDimensionArray.csproj.CoreCompileInputs.cache
+C:\Users\kas\Desktop\C#\MultiDimensionArray\MultiDimensionArray\obj\Debug\net9.0\MultiDimensionArray.dll
+C:\Users\kas\Desktop\C#\MultiDimensionArray\MultiDimensionArray\obj\Debug\net9.0\refint\MultiDimensionArray.dll
+C:\Users\kas\Desktop\C#\MultiDimensionArray\MultiDimensionArray\obj\Debug\net9.0\MultiDimensionArray.pdb
+C:\Users\kas\Desktop\C#\MultiDimensionArray\MultiDimensionArray\obj\Debug\net9.0\MultiDimensionArray.genruntimeconfig.cache
+C:\Users\kas\Desktop\C#\MultiDimensionArray\MultiDimensionArray\obj\Debug\net9.0\ref\MultiDimensionArray.dll

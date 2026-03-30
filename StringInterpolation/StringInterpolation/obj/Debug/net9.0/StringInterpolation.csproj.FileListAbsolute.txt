@@ -1,0 +1,14 @@
+C:\Users\kas\Desktop\C#\StringInterpolation\StringInterpolation\bin\Debug\net9.0\StringInterpolation.exe
+C:\Users\kas\Desktop\C#\StringInterpolation\StringInterpolation\bin\Debug\net9.0\StringInterpolation.deps.json
+C:\Users\kas\Desktop\C#\StringInterpolation\StringInterpolation\bin\Debug\net9.0\StringInterpolation.runtimeconfig.json
+C:\Users\kas\Desktop\C#\StringInterpolation\StringInterpolation\bin\Debug\net9.0\StringInterpolation.dll
+C:\Users\kas\Desktop\C#\StringInterpolation\StringInterpolation\bin\Debug\net9.0\StringInterpolation.pdb
+C:\Users\kas\Desktop\C#\StringInterpolation\StringInterpolation\obj\Debug\net9.0\StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kas\Desktop\C#\StringInterpolation\StringInterpolation\obj\Debug\net9.0\StringInterpolation.AssemblyInfoInputs.cache
+C:\Users\kas\Desktop\C#\StringInterpolation\StringInterpolation\obj\Debug\net9.0\StringInterpolation.AssemblyInfo.cs
+C:\Users\kas\Desktop\C#\StringInterpolation\StringInterpolation\obj\Debug\net9.0\StringInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\kas\Desktop\C#\StringInterpolation\StringInterpolation\obj\Debug\net9.0\StringInterpolation.dll
+C:\Users\kas\Desktop\C#\StringInterpolation\StringInterpolation\obj\Debug\net9.0\refint\StringInterpolation.dll
+C:\Users\kas\Desktop\C#\StringInterpolation\StringInterpolation\obj\Debug\net9.0\StringInterpolation.pdb
+C:\Users\kas\Desktop\C#\StringInterpolation\StringInterpolation\obj\Debug\net9.0\StringInterpolation.genruntimeconfig.cache
+C:\Users\kas\Desktop\C#\StringInterpolation\StringInterpolation\obj\Debug\net9.0\ref\StringInterpolation.dll
