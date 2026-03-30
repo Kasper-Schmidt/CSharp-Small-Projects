@@ -1,0 +1,14 @@
+C:\Users\kas\Desktop\C#\ConditionalOperators\ConditionalOperators\bin\Debug\net9.0\ConditionalOperators.exe
+C:\Users\kas\Desktop\C#\ConditionalOperators\ConditionalOperators\bin\Debug\net9.0\ConditionalOperators.deps.json
+C:\Users\kas\Desktop\C#\ConditionalOperators\ConditionalOperators\bin\Debug\net9.0\ConditionalOperators.runtimeconfig.json
+C:\Users\kas\Desktop\C#\ConditionalOperators\ConditionalOperators\bin\Debug\net9.0\ConditionalOperators.dll
+C:\Users\kas\Desktop\C#\ConditionalOperators\ConditionalOperators\bin\Debug\net9.0\ConditionalOperators.pdb
+C:\Users\kas\Desktop\C#\ConditionalOperators\ConditionalOperators\obj\Debug\net9.0\ConditionalOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kas\Desktop\C#\ConditionalOperators\ConditionalOperators\obj\Debug\net9.0\ConditionalOperators.AssemblyInfoInputs.cache
+C:\Users\kas\Desktop\C#\ConditionalOperators\ConditionalOperators\obj\Debug\net9.0\ConditionalOperators.AssemblyInfo.cs
+C:\Users\kas\Desktop\C#\ConditionalOperators\ConditionalOperators\obj\Debug\net9.0\ConditionalOperators.csproj.CoreCompileInputs.cache
+C:\Users\kas\Desktop\C#\ConditionalOperators\ConditionalOperators\obj\Debug\net9.0\ConditionalOperators.dll
+C:\Users\kas\Desktop\C#\ConditionalOperators\ConditionalOperators\obj\Debug\net9.0\refint\ConditionalOperators.dll
+C:\Users\kas\Desktop\C#\ConditionalOperators\ConditionalOperators\obj\Debug\net9.0\ConditionalOperators.pdb
+C:\Users\kas\Desktop\C#\ConditionalOperators\ConditionalOperators\obj\Debug\net9.0\ConditionalOperators.genruntimeconfig.cache
+C:\Users\kas\Desktop\C#\ConditionalOperators\ConditionalOperators\obj\Debug\net9.0\ref\ConditionalOperators.dll

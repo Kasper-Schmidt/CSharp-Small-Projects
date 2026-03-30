@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wS+9CyBuRF4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kas\\Desktop\\C#\\ParamsKeyword\\ParamsKeyword\\ParamsKeyword.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.14\\microsoft.windowsdesktop.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\kas\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.14\\microsoft.netcore.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\kas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.14\\microsoft.aspnetcore.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\kas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.14\\microsoft.netcore.app.host.win-x64.9.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
