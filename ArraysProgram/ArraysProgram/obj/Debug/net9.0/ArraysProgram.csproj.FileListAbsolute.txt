@@ -1,0 +1,14 @@
+C:\Users\kas\Desktop\C#\ArraysProgram\ArraysProgram\bin\Debug\net9.0\ArraysProgram.exe
+C:\Users\kas\Desktop\C#\ArraysProgram\ArraysProgram\bin\Debug\net9.0\ArraysProgram.deps.json
+C:\Users\kas\Desktop\C#\ArraysProgram\ArraysProgram\bin\Debug\net9.0\ArraysProgram.runtimeconfig.json
+C:\Users\kas\Desktop\C#\ArraysProgram\ArraysProgram\bin\Debug\net9.0\ArraysProgram.dll
+C:\Users\kas\Desktop\C#\ArraysProgram\ArraysProgram\bin\Debug\net9.0\ArraysProgram.pdb
+C:\Users\kas\Desktop\C#\ArraysProgram\ArraysProgram\obj\Debug\net9.0\ArraysProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kas\Desktop\C#\ArraysProgram\ArraysProgram\obj\Debug\net9.0\ArraysProgram.AssemblyInfoInputs.cache
+C:\Users\kas\Desktop\C#\ArraysProgram\ArraysProgram\obj\Debug\net9.0\ArraysProgram.AssemblyInfo.cs
+C:\Users\kas\Desktop\C#\ArraysProgram\ArraysProgram\obj\Debug\net9.0\ArraysProgram.csproj.CoreCompileInputs.cache
+C:\Users\kas\Desktop\C#\ArraysProgram\ArraysProgram\obj\Debug\net9.0\ArraysProgram.dll
+C:\Users\kas\Desktop\C#\ArraysProgram\ArraysProgram\obj\Debug\net9.0\refint\ArraysProgram.dll
+C:\Users\kas\Desktop\C#\ArraysProgram\ArraysProgram\obj\Debug\net9.0\ArraysProgram.pdb
+C:\Users\kas\Desktop\C#\ArraysProgram\ArraysProgram\obj\Debug\net9.0\ArraysProgram.genruntimeconfig.cache
+C:\Users\kas\Desktop\C#\ArraysProgram\ArraysProgram\obj\Debug\net9.0\ref\ArraysProgram.dll
