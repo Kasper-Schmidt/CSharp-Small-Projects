@@ -1,0 +1,14 @@
+C:\Users\kas\Desktop\C#\IFStatements\IFStatements\bin\Debug\net9.0\IFStatements.exe
+C:\Users\kas\Desktop\C#\IFStatements\IFStatements\bin\Debug\net9.0\IFStatements.deps.json
+C:\Users\kas\Desktop\C#\IFStatements\IFStatements\bin\Debug\net9.0\IFStatements.runtimeconfig.json
+C:\Users\kas\Desktop\C#\IFStatements\IFStatements\bin\Debug\net9.0\IFStatements.dll
+C:\Users\kas\Desktop\C#\IFStatements\IFStatements\bin\Debug\net9.0\IFStatements.pdb
+C:\Users\kas\Desktop\C#\IFStatements\IFStatements\obj\Debug\net9.0\IFStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kas\Desktop\C#\IFStatements\IFStatements\obj\Debug\net9.0\IFStatements.AssemblyInfoInputs.cache
+C:\Users\kas\Desktop\C#\IFStatements\IFStatements\obj\Debug\net9.0\IFStatements.AssemblyInfo.cs
+C:\Users\kas\Desktop\C#\IFStatements\IFStatements\obj\Debug\net9.0\IFStatements.csproj.CoreCompileInputs.cache
+C:\Users\kas\Desktop\C#\IFStatements\IFStatements\obj\Debug\net9.0\IFStatements.dll
+C:\Users\kas\Desktop\C#\IFStatements\IFStatements\obj\Debug\net9.0\refint\IFStatements.dll
+C:\Users\kas\Desktop\C#\IFStatements\IFStatements\obj\Debug\net9.0\IFStatements.pdb
+C:\Users\kas\Desktop\C#\IFStatements\IFStatements\obj\Debug\net9.0\IFStatements.genruntimeconfig.cache
+C:\Users\kas\Desktop\C#\IFStatements\IFStatements\obj\Debug\net9.0\ref\IFStatements.dll

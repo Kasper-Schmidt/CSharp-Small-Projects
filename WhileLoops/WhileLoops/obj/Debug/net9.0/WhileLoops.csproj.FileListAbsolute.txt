@@ -1,0 +1,14 @@
+C:\Users\kas\Desktop\C#\WhileLoops\WhileLoops\bin\Debug\net9.0\WhileLoops.exe
+C:\Users\kas\Desktop\C#\WhileLoops\WhileLoops\bin\Debug\net9.0\WhileLoops.deps.json
+C:\Users\kas\Desktop\C#\WhileLoops\WhileLoops\bin\Debug\net9.0\WhileLoops.runtimeconfig.json
+C:\Users\kas\Desktop\C#\WhileLoops\WhileLoops\bin\Debug\net9.0\WhileLoops.dll
+C:\Users\kas\Desktop\C#\WhileLoops\WhileLoops\bin\Debug\net9.0\WhileLoops.pdb
+C:\Users\kas\Desktop\C#\WhileLoops\WhileLoops\obj\Debug\net9.0\WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kas\Desktop\C#\WhileLoops\WhileLoops\obj\Debug\net9.0\WhileLoops.AssemblyInfoInputs.cache
+C:\Users\kas\Desktop\C#\WhileLoops\WhileLoops\obj\Debug\net9.0\WhileLoops.AssemblyInfo.cs
+C:\Users\kas\Desktop\C#\WhileLoops\WhileLoops\obj\Debug\net9.0\WhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\kas\Desktop\C#\WhileLoops\WhileLoops\obj\Debug\net9.0\WhileLoops.dll
+C:\Users\kas\Desktop\C#\WhileLoops\WhileLoops\obj\Debug\net9.0\refint\WhileLoops.dll
+C:\Users\kas\Desktop\C#\WhileLoops\WhileLoops\obj\Debug\net9.0\WhileLoops.pdb
+C:\Users\kas\Desktop\C#\WhileLoops\WhileLoops\obj\Debug\net9.0\WhileLoops.genruntimeconfig.cache
+C:\Users\kas\Desktop\C#\WhileLoops\WhileLoops\obj\Debug\net9.0\ref\WhileLoops.dll
