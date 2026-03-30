@@ -1,0 +1,14 @@
+C:\Users\kas\Desktop\C#\ProjectRandom\ProjectRandom\bin\Debug\net9.0\ProjectRandom.exe
+C:\Users\kas\Desktop\C#\ProjectRandom\ProjectRandom\bin\Debug\net9.0\ProjectRandom.deps.json
+C:\Users\kas\Desktop\C#\ProjectRandom\ProjectRandom\bin\Debug\net9.0\ProjectRandom.runtimeconfig.json
+C:\Users\kas\Desktop\C#\ProjectRandom\ProjectRandom\bin\Debug\net9.0\ProjectRandom.dll
+C:\Users\kas\Desktop\C#\ProjectRandom\ProjectRandom\bin\Debug\net9.0\ProjectRandom.pdb
+C:\Users\kas\Desktop\C#\ProjectRandom\ProjectRandom\obj\Debug\net9.0\ProjectRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kas\Desktop\C#\ProjectRandom\ProjectRandom\obj\Debug\net9.0\ProjectRandom.AssemblyInfoInputs.cache
+C:\Users\kas\Desktop\C#\ProjectRandom\ProjectRandom\obj\Debug\net9.0\ProjectRandom.AssemblyInfo.cs
+C:\Users\kas\Desktop\C#\ProjectRandom\ProjectRandom\obj\Debug\net9.0\ProjectRandom.csproj.CoreCompileInputs.cache
+C:\Users\kas\Desktop\C#\ProjectRandom\ProjectRandom\obj\Debug\net9.0\ProjectRandom.dll
+C:\Users\kas\Desktop\C#\ProjectRandom\ProjectRandom\obj\Debug\net9.0\refint\ProjectRandom.dll
+C:\Users\kas\Desktop\C#\ProjectRandom\ProjectRandom\obj\Debug\net9.0\ProjectRandom.pdb
+C:\Users\kas\Desktop\C#\ProjectRandom\ProjectRandom\obj\Debug\net9.0\ProjectRandom.genruntimeconfig.cache
+C:\Users\kas\Desktop\C#\ProjectRandom\ProjectRandom\obj\Debug\net9.0\ref\ProjectRandom.dll

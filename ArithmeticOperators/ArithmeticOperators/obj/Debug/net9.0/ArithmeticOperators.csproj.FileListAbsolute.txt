@@ -1,0 +1,14 @@
+C:\Users\kas\Desktop\C#\ArithmeticOperators\ArithmeticOperators\bin\Debug\net9.0\ArithmeticOperators.exe
+C:\Users\kas\Desktop\C#\ArithmeticOperators\ArithmeticOperators\bin\Debug\net9.0\ArithmeticOperators.deps.json
+C:\Users\kas\Desktop\C#\ArithmeticOperators\ArithmeticOperators\bin\Debug\net9.0\ArithmeticOperators.runtimeconfig.json
+C:\Users\kas\Desktop\C#\ArithmeticOperators\ArithmeticOperators\bin\Debug\net9.0\ArithmeticOperators.dll
+C:\Users\kas\Desktop\C#\ArithmeticOperators\ArithmeticOperators\bin\Debug\net9.0\ArithmeticOperators.pdb
+C:\Users\kas\Desktop\C#\ArithmeticOperators\ArithmeticOperators\obj\Debug\net9.0\ArithmeticOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kas\Desktop\C#\ArithmeticOperators\ArithmeticOperators\obj\Debug\net9.0\ArithmeticOperators.AssemblyInfoInputs.cache
+C:\Users\kas\Desktop\C#\ArithmeticOperators\ArithmeticOperators\obj\Debug\net9.0\ArithmeticOperators.AssemblyInfo.cs
+C:\Users\kas\Desktop\C#\ArithmeticOperators\ArithmeticOperators\obj\Debug\net9.0\ArithmeticOperators.csproj.CoreCompileInputs.cache
+C:\Users\kas\Desktop\C#\ArithmeticOperators\ArithmeticOperators\obj\Debug\net9.0\ArithmeticOperators.dll
+C:\Users\kas\Desktop\C#\ArithmeticOperators\ArithmeticOperators\obj\Debug\net9.0\refint\ArithmeticOperators.dll
+C:\Users\kas\Desktop\C#\ArithmeticOperators\ArithmeticOperators\obj\Debug\net9.0\ArithmeticOperators.pdb
+C:\Users\kas\Desktop\C#\ArithmeticOperators\ArithmeticOperators\obj\Debug\net9.0\ArithmeticOperators.genruntimeconfig.cache
+C:\Users\kas\Desktop\C#\ArithmeticOperators\ArithmeticOperators\obj\Debug\net9.0\ref\ArithmeticOperators.dll
