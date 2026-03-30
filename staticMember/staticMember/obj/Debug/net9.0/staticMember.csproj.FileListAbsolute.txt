@@ -1,0 +1,14 @@
+C:\Users\kas\Desktop\C#\staticMember\staticMember\bin\Debug\net9.0\staticMember.exe
+C:\Users\kas\Desktop\C#\staticMember\staticMember\bin\Debug\net9.0\staticMember.deps.json
+C:\Users\kas\Desktop\C#\staticMember\staticMember\bin\Debug\net9.0\staticMember.runtimeconfig.json
+C:\Users\kas\Desktop\C#\staticMember\staticMember\bin\Debug\net9.0\staticMember.dll
+C:\Users\kas\Desktop\C#\staticMember\staticMember\bin\Debug\net9.0\staticMember.pdb
+C:\Users\kas\Desktop\C#\staticMember\staticMember\obj\Debug\net9.0\staticMember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kas\Desktop\C#\staticMember\staticMember\obj\Debug\net9.0\staticMember.AssemblyInfoInputs.cache
+C:\Users\kas\Desktop\C#\staticMember\staticMember\obj\Debug\net9.0\staticMember.AssemblyInfo.cs
+C:\Users\kas\Desktop\C#\staticMember\staticMember\obj\Debug\net9.0\staticMember.csproj.CoreCompileInputs.cache
+C:\Users\kas\Desktop\C#\staticMember\staticMember\obj\Debug\net9.0\staticMember.dll
+C:\Users\kas\Desktop\C#\staticMember\staticMember\obj\Debug\net9.0\refint\staticMember.dll
+C:\Users\kas\Desktop\C#\staticMember\staticMember\obj\Debug\net9.0\staticMember.pdb
+C:\Users\kas\Desktop\C#\staticMember\staticMember\obj\Debug\net9.0\staticMember.genruntimeconfig.cache
+C:\Users\kas\Desktop\C#\staticMember\staticMember\obj\Debug\net9.0\ref\staticMember.dll

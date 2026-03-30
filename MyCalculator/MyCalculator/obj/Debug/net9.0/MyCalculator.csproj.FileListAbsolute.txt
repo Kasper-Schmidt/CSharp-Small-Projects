@@ -1,0 +1,14 @@
+C:\Users\kas\Desktop\C#\MyCalculator\MyCalculator\bin\Debug\net9.0\MyCalculator.exe
+C:\Users\kas\Desktop\C#\MyCalculator\MyCalculator\bin\Debug\net9.0\MyCalculator.deps.json
+C:\Users\kas\Desktop\C#\MyCalculator\MyCalculator\bin\Debug\net9.0\MyCalculator.runtimeconfig.json
+C:\Users\kas\Desktop\C#\MyCalculator\MyCalculator\bin\Debug\net9.0\MyCalculator.dll
+C:\Users\kas\Desktop\C#\MyCalculator\MyCalculator\bin\Debug\net9.0\MyCalculator.pdb
+C:\Users\kas\Desktop\C#\MyCalculator\MyCalculator\obj\Debug\net9.0\MyCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kas\Desktop\C#\MyCalculator\MyCalculator\obj\Debug\net9.0\MyCalculator.AssemblyInfoInputs.cache
+C:\Users\kas\Desktop\C#\MyCalculator\MyCalculator\obj\Debug\net9.0\MyCalculator.AssemblyInfo.cs
+C:\Users\kas\Desktop\C#\MyCalculator\MyCalculator\obj\Debug\net9.0\MyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\kas\Desktop\C#\MyCalculator\MyCalculator\obj\Debug\net9.0\MyCalculator.dll
+C:\Users\kas\Desktop\C#\MyCalculator\MyCalculator\obj\Debug\net9.0\refint\MyCalculator.dll
+C:\Users\kas\Desktop\C#\MyCalculator\MyCalculator\obj\Debug\net9.0\MyCalculator.pdb
+C:\Users\kas\Desktop\C#\MyCalculator\MyCalculator\obj\Debug\net9.0\MyCalculator.genruntimeconfig.cache
+C:\Users\kas\Desktop\C#\MyCalculator\MyCalculator\obj\Debug\net9.0\ref\MyCalculator.dll
