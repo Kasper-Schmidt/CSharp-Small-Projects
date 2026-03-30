@@ -1,0 +1,14 @@
+C:\Users\kas\Desktop\C#\IndentationTest\IndentationTest\bin\Debug\net9.0\IndentationTest.exe
+C:\Users\kas\Desktop\C#\IndentationTest\IndentationTest\bin\Debug\net9.0\IndentationTest.deps.json
+C:\Users\kas\Desktop\C#\IndentationTest\IndentationTest\bin\Debug\net9.0\IndentationTest.runtimeconfig.json
+C:\Users\kas\Desktop\C#\IndentationTest\IndentationTest\bin\Debug\net9.0\IndentationTest.dll
+C:\Users\kas\Desktop\C#\IndentationTest\IndentationTest\bin\Debug\net9.0\IndentationTest.pdb
+C:\Users\kas\Desktop\C#\IndentationTest\IndentationTest\obj\Debug\net9.0\IndentationTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kas\Desktop\C#\IndentationTest\IndentationTest\obj\Debug\net9.0\IndentationTest.AssemblyInfoInputs.cache
+C:\Users\kas\Desktop\C#\IndentationTest\IndentationTest\obj\Debug\net9.0\IndentationTest.AssemblyInfo.cs
+C:\Users\kas\Desktop\C#\IndentationTest\IndentationTest\obj\Debug\net9.0\IndentationTest.csproj.CoreCompileInputs.cache
+C:\Users\kas\Desktop\C#\IndentationTest\IndentationTest\obj\Debug\net9.0\IndentationTest.dll
+C:\Users\kas\Desktop\C#\IndentationTest\IndentationTest\obj\Debug\net9.0\refint\IndentationTest.dll
+C:\Users\kas\Desktop\C#\IndentationTest\IndentationTest\obj\Debug\net9.0\IndentationTest.pdb
+C:\Users\kas\Desktop\C#\IndentationTest\IndentationTest\obj\Debug\net9.0\IndentationTest.genruntimeconfig.cache
+C:\Users\kas\Desktop\C#\IndentationTest\IndentationTest\obj\Debug\net9.0\ref\IndentationTest.dll
