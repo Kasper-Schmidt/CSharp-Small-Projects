@@ -1,0 +1,14 @@
+C:\Users\kas\Desktop\C#\DotnetOOPNew\DotnetOOPNew\bin\Debug\net9.0\DotnetOOPNew.exe
+C:\Users\kas\Desktop\C#\DotnetOOPNew\DotnetOOPNew\bin\Debug\net9.0\DotnetOOPNew.deps.json
+C:\Users\kas\Desktop\C#\DotnetOOPNew\DotnetOOPNew\bin\Debug\net9.0\DotnetOOPNew.runtimeconfig.json
+C:\Users\kas\Desktop\C#\DotnetOOPNew\DotnetOOPNew\bin\Debug\net9.0\DotnetOOPNew.dll
+C:\Users\kas\Desktop\C#\DotnetOOPNew\DotnetOOPNew\bin\Debug\net9.0\DotnetOOPNew.pdb
+C:\Users\kas\Desktop\C#\DotnetOOPNew\DotnetOOPNew\obj\Debug\net9.0\DotnetOOPNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kas\Desktop\C#\DotnetOOPNew\DotnetOOPNew\obj\Debug\net9.0\DotnetOOPNew.AssemblyInfoInputs.cache
+C:\Users\kas\Desktop\C#\DotnetOOPNew\DotnetOOPNew\obj\Debug\net9.0\DotnetOOPNew.AssemblyInfo.cs
+C:\Users\kas\Desktop\C#\DotnetOOPNew\DotnetOOPNew\obj\Debug\net9.0\DotnetOOPNew.csproj.CoreCompileInputs.cache
+C:\Users\kas\Desktop\C#\DotnetOOPNew\DotnetOOPNew\obj\Debug\net9.0\DotnetOOPNew.dll
+C:\Users\kas\Desktop\C#\DotnetOOPNew\DotnetOOPNew\obj\Debug\net9.0\refint\DotnetOOPNew.dll
+C:\Users\kas\Desktop\C#\DotnetOOPNew\DotnetOOPNew\obj\Debug\net9.0\DotnetOOPNew.pdb
+C:\Users\kas\Desktop\C#\DotnetOOPNew\DotnetOOPNew\obj\Debug\net9.0\DotnetOOPNew.genruntimeconfig.cache
+C:\Users\kas\Desktop\C#\DotnetOOPNew\DotnetOOPNew\obj\Debug\net9.0\ref\DotnetOOPNew.dll

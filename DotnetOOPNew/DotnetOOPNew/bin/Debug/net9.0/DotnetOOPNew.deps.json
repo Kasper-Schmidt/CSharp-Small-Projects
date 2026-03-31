@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "DotnetOOPNew/1.0.0": {
+        "runtime": {
+          "DotnetOOPNew.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotnetOOPNew/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

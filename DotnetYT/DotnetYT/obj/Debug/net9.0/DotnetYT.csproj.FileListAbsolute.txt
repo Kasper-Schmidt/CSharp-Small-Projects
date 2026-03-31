@@ -1,0 +1,14 @@
+C:\Users\kas\Desktop\C#\DotnetYT\DotnetYT\bin\Debug\net9.0\DotnetYT.exe
+C:\Users\kas\Desktop\C#\DotnetYT\DotnetYT\bin\Debug\net9.0\DotnetYT.deps.json
+C:\Users\kas\Desktop\C#\DotnetYT\DotnetYT\bin\Debug\net9.0\DotnetYT.runtimeconfig.json
+C:\Users\kas\Desktop\C#\DotnetYT\DotnetYT\bin\Debug\net9.0\DotnetYT.dll
+C:\Users\kas\Desktop\C#\DotnetYT\DotnetYT\bin\Debug\net9.0\DotnetYT.pdb
+C:\Users\kas\Desktop\C#\DotnetYT\DotnetYT\obj\Debug\net9.0\DotnetYT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kas\Desktop\C#\DotnetYT\DotnetYT\obj\Debug\net9.0\DotnetYT.AssemblyInfoInputs.cache
+C:\Users\kas\Desktop\C#\DotnetYT\DotnetYT\obj\Debug\net9.0\DotnetYT.AssemblyInfo.cs
+C:\Users\kas\Desktop\C#\DotnetYT\DotnetYT\obj\Debug\net9.0\DotnetYT.csproj.CoreCompileInputs.cache
+C:\Users\kas\Desktop\C#\DotnetYT\DotnetYT\obj\Debug\net9.0\DotnetYT.dll
+C:\Users\kas\Desktop\C#\DotnetYT\DotnetYT\obj\Debug\net9.0\refint\DotnetYT.dll
+C:\Users\kas\Desktop\C#\DotnetYT\DotnetYT\obj\Debug\net9.0\DotnetYT.pdb
+C:\Users\kas\Desktop\C#\DotnetYT\DotnetYT\obj\Debug\net9.0\DotnetYT.genruntimeconfig.cache
+C:\Users\kas\Desktop\C#\DotnetYT\DotnetYT\obj\Debug\net9.0\ref\DotnetYT.dll
