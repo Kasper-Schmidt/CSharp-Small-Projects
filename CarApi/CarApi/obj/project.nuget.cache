@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UfzE6wf4V9I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kas\\Desktop\\C#\\CarApi\\CarApi\\CarApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kas\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.15\\microsoft.aspnetcore.openapi.9.0.15.nupkg.sha512",
+    "C:\\Users\\kas\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

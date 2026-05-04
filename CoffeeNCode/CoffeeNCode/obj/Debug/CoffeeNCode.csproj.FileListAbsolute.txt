@@ -1,0 +1,8 @@
+C:\Users\kas\Desktop\C#\CoffeeNCode\CoffeeNCode\bin\Debug\CoffeeNCode.exe.config
+C:\Users\kas\Desktop\C#\CoffeeNCode\CoffeeNCode\bin\Debug\CoffeeNCode.exe
+C:\Users\kas\Desktop\C#\CoffeeNCode\CoffeeNCode\bin\Debug\CoffeeNCode.pdb
+C:\Users\kas\Desktop\C#\CoffeeNCode\CoffeeNCode\obj\Debug\CoffeeNCode.csproj.AssemblyReference.cache
+C:\Users\kas\Desktop\C#\CoffeeNCode\CoffeeNCode\obj\Debug\CoffeeNCode.csproj.CoreCompileInputs.cache
+C:\Users\kas\Desktop\C#\CoffeeNCode\CoffeeNCode\obj\Debug\CoffeeNCode.exe
+C:\Users\kas\Desktop\C#\CoffeeNCode\CoffeeNCode\obj\Debug\CoffeeNCode.pdb
+C:\Users\kas\Desktop\C#\CoffeeNCode\CoffeeNCode\obj\Debug\CoffeeNCode.exe.config

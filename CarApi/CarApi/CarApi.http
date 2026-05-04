@@ -1,0 +1,51 @@
+@CarApi_HostAddress = http://localhost:5285
+
+
+### Get all cars (200 OK)
+GET {{CarApi_HostAddress}}/api/car
+Accept: application/json
+
+
+### Get car by id (200 OK)
+GET {{CarApi_HostAddress}}/api/car/1
+Accept: application/json
+
+
+### Get all cars by brand (200 OK)
+GET {{CarApi_HostAddress}}/api/car/brand/Ferrari
+Accept: application/json
+
+
+### Add new car (201 Created)
+POST {{CarApi_HostAddress}}/api/car
+Content-Type: application/json
+
+{
+  "brand": "Ford",
+  "model": "Fiesta",
+  "year": 2016,
+  "color": "Gray",
+  "mileage": 68000,
+  "horsePower": 100,
+  "isAvailable": true
+}
+
+
+### Update car by id (200 OK)
+PUT {{CarApi_HostAddress}}/api/car/1
+Content-Type: application/json
+
+{
+  "brand": "Bugatti",
+  "model": "Chiron",
+  "year": 2015,
+  "color": "Black/Beige",
+  "mileage": 700,
+  "horsePower": 1600,
+  "isAvailable": true
+}
+
+
+### Delete car (204 No Content)
+DELETE {{CarApi_HostAddress}}/api/car/22
+Accept: application/json
